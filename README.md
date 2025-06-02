@@ -28,7 +28,8 @@ React Hooks (useState)
 
 📷 Screenshots
 
-(Add screenshots here if possible)
+![Todo App Screenshot](./screenshot.png)
+
 
 🛠️ How to Run
 
