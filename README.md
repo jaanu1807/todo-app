@@ -59,10 +59,5 @@ Managing component state with useState
 Creating a responsive UI with CSS  
   
   
-🔗 Live Demo  
-  
-Coming soon... (or add your Netlify/Vercel link here)  
-  
----  
-  
+
 
